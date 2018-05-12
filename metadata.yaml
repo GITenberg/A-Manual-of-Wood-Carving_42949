@@ -1,0 +1,36 @@
+_repo: A-Manual-of-Wood-Carving_42949
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42949-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Leland, Charles Godfrey
+    aliases:
+    - Leland, Charles G.
+    - Breitman, Hans
+    - Breitmann, Hans
+    birthdate: 1824
+    deathdate: 1903
+    gutenberg_agent_id: '243'
+    url: http://www.gutenberg.org/2009/agents/243
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Godfrey_Leland
+  - agent_name: Holtzapffel, John J. (John Jacob)
+    alias: Holtzapffel, John Jacob
+    gutenberg_agent_id: '40600'
+    url: http://www.gutenberg.org/2009/agents/40600
+description: ''
+gutenberg_issued: '2013-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42949'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NK'
+- !lcsh 'Wood-carving'
+- !lcsh 'Wood-carving -- Technique'
+title: A Manual of Wood Carving
+url: http://www.gutenberg.org/ebooks/42949
